@@ -25,7 +25,7 @@
 
 ## Логическая схема
 
-![vram_control_logisim](/BreakingNESWiki/imgstore/ppu/vram_control_logisim.jpg)
+![vram_control_logisim](/BreakingNESWiki/imgstore/ppu/vram_control_logisim.png)
 
 ## Read Buffer (RB)
 
